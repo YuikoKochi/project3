@@ -4,7 +4,7 @@
 ####
 In the midst of waning global interest in world events, I wanted to analyze the Expo from a cost perspective. As for the tools, I focused on making the graphs and scrolling visually appealing.
 
-＃Data Used
+## Data Used
 Bureau International des Expositions
 https://www.bie-paris.org/site/en/expo-index/all-world-expos
 
